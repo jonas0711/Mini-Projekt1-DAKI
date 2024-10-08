@@ -66,6 +66,5 @@ while running:
     # Opdaterer skærmen for at vise den aktuelle tid
     pygame.display.flip()                   
     
-
 # Afslutter Pygame, når programmet lukkes
 pygame.quit()
